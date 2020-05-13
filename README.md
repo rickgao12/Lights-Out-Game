@@ -1,5 +1,5 @@
 # Lights-Out-Game
-Based on the 1992 electronic game **Lights Out**
+Based on the 1995 electronic game **Lights Out**
 
 Built using React, JavaScript, HTML, CSS
 
